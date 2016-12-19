@@ -6,9 +6,9 @@
 - Gitter Buddy
  - :octocat: Cynthia Rich (@crichid)
 
--Class URL: https://github.com/githubteacher/dev-dec-19
+- Class URL: https://github.com/githubteacher/dev-dec-19
 
--Class Chat: [![Join the chat at https://gitter.im/githubteacher/dev-dec-19](https://badges.gitter.im/githubteacher/dev-dec-19.svg)](https://gitter.im/githubteacher/dev-dec-19?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- Class Chat: [![Join the chat at https://gitter.im/githubteacher/dev-dec-19](https://badges.gitter.im/githubteacher/dev-dec-19.svg)](https://gitter.im/githubteacher/dev-dec-19?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Give Us Feedback
 
