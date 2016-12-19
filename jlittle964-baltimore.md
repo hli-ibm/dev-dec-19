@@ -5,4 +5,4 @@
   -Seafood dish
 - Luigi's: Sandwhiches
   - Favorite sandwhich: Padrino
--Jimmy's Famous Seafood
+- Jimmy's Famous Seafood
