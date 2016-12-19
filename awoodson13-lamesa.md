@@ -5,3 +5,4 @@
 - Red Lobster
 - Olive Garden
 - Cotijas
+- Legal Seafood
